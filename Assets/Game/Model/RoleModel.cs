@@ -14,7 +14,7 @@ namespace Game.Model
 		public ReactiveProperty<JingJie> JingJie;
 		public LingQiZhi LingQiZhi;
 		public ReactiveProperty<int> DaoNianZhi;
-		public FightProperty FightProperty;
+		public FightProperty FightProperty; 
 
 
 	}
